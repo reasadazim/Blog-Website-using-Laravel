@@ -1,0 +1,13 @@
+/* For dashboard only styles */
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Pacifico|Josefin+Sans&display=swap');
+a.logo_font{
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+  color:#454545 !important;
+}
+.action-buttons {
+    float: right;
+}
+.action-buttons a{
+    padding: 5px;
+}
